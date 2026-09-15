@@ -1,0 +1,6 @@
+{
+  "name": "알파상권 AI",
+  "description": "천안시 스마트도시 공공데이터 기반 외식 상권분석 및 조기폐업 예방 처방 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
